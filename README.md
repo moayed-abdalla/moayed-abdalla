@@ -1,7 +1,7 @@
 ## 👋 Hello there
 
 ### 🔭 I am currently working on
- - [Recipe Almanac](https://github.com/moayed-abdalla/Recipe_Almanac)
+ - [Recipe Almanac](https://RecipeAlmanac.xyz)
  
    An recipe book and recipe finder all in one where you can scale measurements and fork other recipes as you like, without all the ads, subscriptions and signup needed.
  - [BI Dash](https://github.com/moayed-abdalla/PyBI_2.0)
