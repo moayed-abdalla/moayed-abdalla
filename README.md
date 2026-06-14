@@ -3,10 +3,8 @@
 ### I am currently working on
  - [Recipe Almanac](https://RecipeAlmanac.xyz)
  
-   A digital recipe book and finder that allows for ease conversion of units, scales recipes to any size even forking other recipes to make your own variations. All without any ads, subscriptions or signup needed.
- - [BI Dash](https://github.com/moayed-abdalla/PyBI_2.0)
- 
-   A free easy to use BI tool to make and link dashboards and data, that is intuitively designed and give AI based recommendations for chart types.
+   A digital recipe book allows for ease conversion of units(metric, imperial and volumetric), temperatures, scales recipes to any size. There is also a leaderboard for the best performing recipes and a feed page to recommend recipes which similar to those you favourited. All without any ads, subscriptions or signup needed.
+
 ### Feel free to check out my projects
  - [My portfolio website](https://moayed.xyz)
  - [Recipe Almanac](https://RecipeAlmanac.xyz)
