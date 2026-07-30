@@ -8,4 +8,5 @@
 ### Feel free to check out my projects
  - [My portfolio website](https://moayed.xyz)
  - [Recipe Almanac](https://RecipeAlmanac.xyz)
+ - [Keepy Note](https://github.com/moayed-abdalla/Keepy_Note)
  - [Data studies](https://github.com/moayed-abdalla/Data-Projects-Profile)
