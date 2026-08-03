@@ -9,4 +9,5 @@
  - [My portfolio website](https://moayed.xyz)
  - [Recipe Almanac](https://RecipeAlmanac.xyz)
  - [Keepy Note](https://github.com/moayed-abdalla/Keepy_Note)
+ - [Jeddah Cafe Directory](https://cafe-directory.vercel.app)
  - [Data studies](https://github.com/moayed-abdalla/Data-Projects-Profile)
