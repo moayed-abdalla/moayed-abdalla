@@ -1,13 +1,13 @@
 ## Hi there
 
 ### I am currently working on
+ - [Commit]
+
+   A task management and notes app for maximalists with the goal for it to integrate into anyones day to day life and enable them with project management methods for better analysis and tracking all while still being able to be easily used as a no fuss task solution if the user wishes to to be simpler.
+
  - [Recipe Almanac](https://RecipeAlmanac.xyz)
  
    A digital recipe book allows for ease conversion of units(metric, imperial and volumetric), temperatures, scales recipes to any size. There is also a leaderboard for the best performing recipes and a feed page to recommend recipes which similar to those you favourited. All without any ads, subscriptions or signup needed.
-
- - [Commit]
-
-   A task management and notes app the integration project management methods and enables anyone looking to get better at tracking their tasks.
 
  - [Jeddah Cafe Directory](https://cafe-directory.vercel.app)
 
